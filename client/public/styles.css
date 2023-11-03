@@ -1,0 +1,70 @@
+#footer{
+    text-align: center;
+    background-color: black;
+    padding:5% 0 3%;
+    color:white;
+}
+#header{
+    padding:3% 0 2%;
+    background-color:black;
+    color:white;
+}
+#sidebar{
+    width:20%;
+    height: 100%;
+    float:left;
+    padding: 2%;
+    background-color:white;
+
+}
+#data{
+    padding: 3%;
+    padding-left:20%;
+    background-color:white;
+    padding-bottom:20%;
+    padding-top:5%;
+}
+#graph{
+    margin-left:10%;
+
+}
+#pie{
+    float:left;
+    margin-left: 13%;
+    margin: 5% 5% 5% 5%;
+
+}
+#polararea{
+    float:right;
+    margin: 5% 5% 5% 5%;
+}
+#bargraph{
+    margin-top:5%;
+    margin-bottom:5%;
+    margin-left:10%;
+}
+#graphrel{
+    margin-top:35%;
+    margin-left:10%;
+}
+#area{
+    margin-top:5%;
+    margin-bottom:5%;
+    margin-left:10%;
+}
+#filterData{
+    padding: 3%;
+    padding-left:20%;
+    background-color: white;
+    color:black;
+    padding-bottom:20%;
+    padding-top:5%;
+}
+.heading{
+    color:white;
+}
+#pieyear{
+    margin-top:5%;
+    margin-bottom:5%;
+    margin-left:10%;
+}
